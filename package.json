@@ -1,7 +1,7 @@
 {
-  "name": "learnyounode",
+  "name": "learnyounode-zh-cn",
   "version": "1.0.5",
-  "description": "Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.",
+  "description": "Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.(Simplified Chinese version)",
   "author": "Rod Vagg <rod@vagg.org> (https://github.com/rvagg)",
   "contributors": [
     "Rod Vagg <r@va.gg> (https://github.com/rvagg)",
@@ -9,11 +9,12 @@
     "Julián Duque <julianduquej@gmail.com> (https://github.com/julianduque)",
     "Lars-Magnus Skog <lars.magnus.skog@gmail.com> (https://github.com/ralphtheninja)",
     "Tim Inman <tim.inman@gmail.com> (https://github.com/thehack)",
-    "Dan Flettre <fletd01@yahoo.com> (https://github.com/Flet)"
+    "Dan Flettre <fletd01@yahoo.com> (https://github.com/Flet)",
+    "Leigh Zhu <i@zhuli.me> (https://github.com/lisposter)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rvagg/learnyounode.git"
+    "url": "https://github.com/lisposter/learnyounode.git#tanslation-zh-cn"
   },
   "license": "MIT",
   "dependencies": {
@@ -34,6 +35,6 @@
     "chalk": "^0.4.0",
     "through2": "^0.4.1"
   },
-  "bin": "./learnyounode.js",
+  "bin": "./learnyounode_zh-cn.js",
   "preferGlobal": true
 }
